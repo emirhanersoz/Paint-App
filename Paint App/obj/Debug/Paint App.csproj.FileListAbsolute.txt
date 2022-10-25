@@ -1,0 +1,11 @@
+C:\Users\EmirhanERSÖZ\source\repos\Paint App\Paint App\bin\Debug\Paint App.exe.config
+C:\Users\EmirhanERSÖZ\source\repos\Paint App\Paint App\bin\Debug\Paint App.exe
+C:\Users\EmirhanERSÖZ\source\repos\Paint App\Paint App\bin\Debug\Paint App.pdb
+C:\Users\EmirhanERSÖZ\source\repos\Paint App\Paint App\obj\Debug\Paint App.csproj.AssemblyReference.cache
+C:\Users\EmirhanERSÖZ\source\repos\Paint App\Paint App\obj\Debug\Paint App.csproj.SuggestedBindingRedirects.cache
+C:\Users\EmirhanERSÖZ\source\repos\Paint App\Paint App\obj\Debug\Paint_App.Form1.resources
+C:\Users\EmirhanERSÖZ\source\repos\Paint App\Paint App\obj\Debug\Paint_App.Properties.Resources.resources
+C:\Users\EmirhanERSÖZ\source\repos\Paint App\Paint App\obj\Debug\Paint App.csproj.GenerateResource.cache
+C:\Users\EmirhanERSÖZ\source\repos\Paint App\Paint App\obj\Debug\Paint App.csproj.CoreCompileInputs.cache
+C:\Users\EmirhanERSÖZ\source\repos\Paint App\Paint App\obj\Debug\Paint App.exe
+C:\Users\EmirhanERSÖZ\source\repos\Paint App\Paint App\obj\Debug\Paint App.pdb
